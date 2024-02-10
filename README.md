@@ -1,1 +1,2 @@
 # Excel-Project
+In this project, I have used Excel for data, cleaning, data analysis and data visualisation. I have made an extensive report for a garment store owner who had some questions he needed answers to. Therefore, I went through the data availabe, analyzed it, created visuals using that data for him to understand the data well and lastly answered his questions to help him make important decisions related to his business.
